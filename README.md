@@ -103,7 +103,7 @@ sudo chown -R $USER:$USER /opt/Enigma2-IPTV-Client
 sudo nano /etc/systemd/system/enigma2-iptv-client.service
 ```
 
-Dann tragen wir folgendes ein:
+Dann trägt man folgendes ein (Anmerkung: `<USERNAME>` mit dem Benutzernamen ersetzen.):
 
 ```
 [Unit]
