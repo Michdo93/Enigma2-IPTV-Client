@@ -1,7 +1,9 @@
-# IPTV Player — Enigma2 Client
+# Enigma2 IPTV Client
 
 Ein lokaler Webserver als IPTV-Client für Enigma2-Receiver (Dreambox, VU+, GigaBlue, Octagon u.a.).  
 Bouquets und Sender werden direkt vom Receiver geladen, Streams werden via ffmpeg für den Browser transkodiert.
+
+![Enigma2 IPTV Client](https://github.com/Michdo93/test2/blob/main/enigma2_iptv_client.png?raw=true)
 
 ---
 
