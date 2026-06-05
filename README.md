@@ -23,9 +23,10 @@ sudo apt-get install -y ffmpeg
 ## Installation
 
 1. Repository clonen:
+
    ```
-  git clone https://github.com/Michdo93/Enigma2-IPTV-Client
-  cd Enigma2-IPTV-Client
+   git clone https://github.com/Michdo93/Enigma2-IPTV-Client
+   cd Enigma2-IPTV-Client
    ```
 
 2. Im Ordner ein virtuelles Python-Environment erstellen:
