@@ -3,5 +3,6 @@
   "username": "root",
   "password": "password",
   "port": 8765,
-  "autoconnect": true
+  "autoconnect": true,
+  "quality": "ultra"
 }
